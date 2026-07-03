@@ -1,4 +1,6 @@
 @echo off
+set CUDA_PATH=
+set PATH=%PATH:CUDA=%
 
 set PYTHON=
 set GIT=
